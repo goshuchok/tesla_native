@@ -12,7 +12,7 @@ const style = StyleSheet.create({
     alignItems: 'center',
   },
   text: {
-    fontSize: 20,
+    fontSize: 12,
     fontWeight: '500',
     textTransform: 'uppercase',
   },
